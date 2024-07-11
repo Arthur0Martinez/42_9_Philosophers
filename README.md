@@ -1,0 +1,1 @@
+The objective is to solve the classic "Dining Philosophers Problem," a theoretical problem that illustrates the challenges of resource sharing and synchronization in concurrent programming. This project helps understand threads, mutexes, semaphores, and the importance of avoiding deadlocks and race conditions.
